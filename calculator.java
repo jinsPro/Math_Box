@@ -1,3 +1,4 @@
+// 기본 계산기
 package MathTool;
 
 class SubClass {
