@@ -16,6 +16,10 @@ class SubClass {
 	int divide_new(int a, int b) {
 		return (a/b);
 	}
+	
+	String say_hello() {
+		System.out.println("hello");
+	}
 }
 
 public class calculator {
