@@ -15,10 +15,6 @@ class SubClass {
 	int divide_free(int a, int b) {
 		return (a/b);
 	}
-	
-	int square(int a) {
-		return (a*a);
-	}
 }
 
 public class calculator {
