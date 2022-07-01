@@ -12,7 +12,7 @@ class SubClass {
 	int multiply(int c, int d) {
 		return (c*d);
 	}
-	int divide(int a, int b) {
+	int divide_free(int a, int b) {
 		return (a/b);
 	}
 }
