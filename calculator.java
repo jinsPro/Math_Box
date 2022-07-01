@@ -12,7 +12,8 @@ class SubClass {
 	int multiply(int c, int d) {
 		return (c*d);
 	}
-	int divide_premium(int a, int b) {
+
+	int divide_new(int a, int b) {
 		return (a/b);
 	}
 }
