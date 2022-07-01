@@ -12,6 +12,9 @@ class SubClass {
 	int multiply(int c, int d) {
 		return (c*d);
 	}
+	int divide(int a, int b) {
+		return (a/b);
+	}
 }
 
 public class calculator {
